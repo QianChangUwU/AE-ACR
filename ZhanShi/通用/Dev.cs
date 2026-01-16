@@ -6,7 +6,7 @@
 
 using AEAssist.CombatRoutine.View.JobView;
 using AEAssist.Helper;
-using ImGuiNET;
+using Dalamud.Bindings.ImGui;
 using QianChang.ZhanShi.设置;
 using System.Runtime.CompilerServices;
 

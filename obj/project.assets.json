@@ -1,0 +1,130 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "AEAssist.NET/1.1.12": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/AEAssist.dll": {},
+          "lib/net9.0/CSCore.dll": {},
+          "lib/net9.0/Dalamud.Bindings.ImGui.dll": {},
+          "lib/net9.0/Dalamud.dll": {},
+          "lib/net9.0/ECommons.dll": {},
+          "lib/net9.0/FFXIVClientStructs.dll": {},
+          "lib/net9.0/InteropGenerator.Runtime.dll": {},
+          "lib/net9.0/KamiToolKit.dll": {},
+          "lib/net9.0/Lumina.Excel.dll": {},
+          "lib/net9.0/Lumina.dll": {}
+        },
+        "runtime": {
+          "lib/net9.0/AEAssist.dll": {},
+          "lib/net9.0/CSCore.dll": {},
+          "lib/net9.0/Dalamud.Bindings.ImGui.dll": {},
+          "lib/net9.0/Dalamud.dll": {},
+          "lib/net9.0/ECommons.dll": {},
+          "lib/net9.0/FFXIVClientStructs.dll": {},
+          "lib/net9.0/InteropGenerator.Runtime.dll": {},
+          "lib/net9.0/KamiToolKit.dll": {},
+          "lib/net9.0/Lumina.Excel.dll": {},
+          "lib/net9.0/Lumina.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AEAssist.NET/1.1.12": {
+      "sha512": "1mDjTGlcJEVDme2GPx0XIGCIEeP/uoYRMVNrH4WCVohNPfwuWNj580wEUkUsJn0brU4hYRK1J8xjCneuJQtrnw==",
+      "type": "package",
+      "path": "aeassist.net/1.1.12",
+      "files": [
+        ".nupkg.metadata",
+        "aeassist.net.1.1.12.nupkg.sha512",
+        "aeassist.net.nuspec",
+        "lib/net9.0/AEAssist.dll",
+        "lib/net9.0/CSCore.dll",
+        "lib/net9.0/Dalamud.Bindings.ImGui.dll",
+        "lib/net9.0/Dalamud.dll",
+        "lib/net9.0/ECommons.dll",
+        "lib/net9.0/FFXIVClientStructs.dll",
+        "lib/net9.0/InteropGenerator.Runtime.dll",
+        "lib/net9.0/KamiToolKit.dll",
+        "lib/net9.0/Lumina.Excel.dll",
+        "lib/net9.0/Lumina.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "AEAssist.NET >= 1.1.12"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\BHC\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\文档\\GitHub\\AE-ACR\\QianChang.csproj",
+      "projectName": "QianChang",
+      "projectPath": "F:\\文档\\GitHub\\AE-ACR\\QianChang.csproj",
+      "packagesPath": "C:\\Users\\BHC\\.nuget\\packages\\",
+      "outputPath": "F:\\文档\\GitHub\\AE-ACR\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\BHC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/aeassist/api/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "AEAssist.NET": {
+            "target": "Package",
+            "version": "[1.1.12, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Users\\BHC\\.dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

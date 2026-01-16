@@ -6,7 +6,7 @@
 
 using AEAssist.CombatRoutine.View.JobView;
 using AEAssist.GUI;
-using ImGuiNET;
+using Dalamud.Bindings.ImGui;
 using QianChang.ZhanShi.设置;
 using System;
 using System.Diagnostics;
@@ -40,12 +40,6 @@ namespace QianChang.ZhanShi.通用
             Console.WriteLine("打开浏览器失败：" + ex.Message);
           }
         }
-      }
-      if (ImGui.CollapsingHeader("更新时间轴"))
-      {
-        if (ImGui.Button("检查更新"))
-          FileVersionUpdater.UpdateFiles();
-        ImGui.Text("时间轴问题请联系浅唱/QC");
       }
       if (ImGui.CollapsingHeader("起手选择"))
       {

@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>net8.0</TargetFramework>
+        <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
@@ -17,18 +17,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <Reference Include="AEAssist">
-        <HintPath>..\..\..\Desktop\1\AEAssistCNVersion\AEAssistCNVersion\AEAssist\AEAssist.dll</HintPath>
-        <Private>False</Private>
-      </Reference>
-      <Reference Include="Dalamud">
-        <HintPath>..\..\..\AppData\Roaming\XIVLauncherCN\addon\Hooks\11.0.0.10\Dalamud.dll</HintPath>
-        <Private>False</Private>
-      </Reference>
-      <Reference Include="ImGui.NET">
-        <HintPath>..\..\..\AppData\Roaming\XIVLauncherCN\addon\Hooks\11.0.0.10\ImGui.NET.dll</HintPath>
-        <Private>False</Private>
-      </Reference>
+      <PackageReference Include="AEAssist.NET" Version="1.1.12" />
     </ItemGroup>
 
 </Project>

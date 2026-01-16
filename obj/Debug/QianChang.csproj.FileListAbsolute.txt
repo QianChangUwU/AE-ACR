@@ -1,0 +1,13 @@
+C:\Users\BHC\Desktop\1\AEAssistCNVersion\ACR\QianChang\QianChang.deps.json
+C:\Users\BHC\Desktop\1\AEAssistCNVersion\ACR\QianChang\QianChang.dll
+C:\Users\BHC\Desktop\1\AEAssistCNVersion\ACR\QianChang\QianChang.pdb
+F:\文档\GitHub\AE-ACR\obj\Debug\QianChang.csproj.AssemblyReference.cache
+F:\文档\GitHub\AE-ACR\obj\Debug\QianChang.GeneratedMSBuildEditorConfig.editorconfig
+F:\文档\GitHub\AE-ACR\obj\Debug\QianChang.AssemblyInfoInputs.cache
+F:\文档\GitHub\AE-ACR\obj\Debug\QianChang.AssemblyInfo.cs
+F:\文档\GitHub\AE-ACR\obj\Debug\QianChang.csproj.CoreCompileInputs.cache
+F:\文档\GitHub\AE-ACR\obj\Debug\QianChang.sourcelink.json
+F:\文档\GitHub\AE-ACR\obj\Debug\QianChang.dll
+F:\文档\GitHub\AE-ACR\obj\Debug\refint\QianChang.dll
+F:\文档\GitHub\AE-ACR\obj\Debug\QianChang.pdb
+F:\文档\GitHub\AE-ACR\obj\Debug\ref\QianChang.dll
