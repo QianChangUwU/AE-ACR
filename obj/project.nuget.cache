@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PcThDMUH7i0=",
+  "dgSpecHash": "lLAzp6CnFGI=",
   "success": true,
   "projectFilePath": "F:\\文档\\GitHub\\AE-ACR\\QianChang.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\BHC\\.nuget\\packages\\aeassist.net\\1.1.12\\aeassist.net.1.1.12.nupkg.sha512"
+    "C:\\Users\\BHC\\.nuget\\packages\\aeassist.net\\1.2.8\\aeassist.net.1.2.8.nupkg.sha512"
   ],
   "logs": []
 }
